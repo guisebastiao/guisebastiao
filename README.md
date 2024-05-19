@@ -1,16 +1,16 @@
-# Bem-vindo ao meu GitHub!
+# Bem-Vindo ao meu GitHub!
 
 Olá! Meu nome é Guilherme Fernandes Sebastião, sou um entusiasta de desenvolvimento web e estudante de Ciência da Computação na Universidade Unisul, em Tubarão, SC. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
-## Sobre mim
+## Sobre Mim
 
 - 🎓 Estudante de Ciência da Computação na Universidade Unisul
-- 🌱 Atualmente, estou me aprofundando em desenvolvimento web
+- 🌱 Atualmente, estou me aprofundando em Desenvolvimento Web
 - 💼 Buscando oportunidades para colaborar em projetos interessantes
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/guilherme-sebastiao/)
-- 😄 Pronomes: Ele/dele
+- 😄 Pronomes: Ele/Dele
 
-## Tecnologias que domino
+## Tecnologias que Domino
 
 - HTML
 - CSS
@@ -25,10 +25,10 @@ Olá! Meu nome é Guilherme Fernandes Sebastião, sou um entusiasta de desenvolv
 - Figma
 - Banco de Dados (SQL, MySQL)
 
-## Projetos destacados
+## Projetos Destacados
 
 - Jogo da Velha
-- Flappy Bird Clone
+- FlappyBird Clone
 - Jogo da Forca
 - Snake Game
 - Termo
@@ -40,6 +40,6 @@ Olá! Meu nome é Guilherme Fernandes Sebastião, sou um entusiasta de desenvolv
 - [React do Zero a Maestria (com hooks, router, API, Projetos)](https://www.udemy.com)
 - [PRO FIGMA | UI DESIGN com Figma do Zero ao Especialista 2024](https://www.udemy.com)
 
-## Entre em contato
+## Entre em Contato
 
 Estou sempre aberto para networking e colaboração em projetos interessantes. Sinta-se à vontade para entrar em contato comigo por meio do meu [LinkedIn](https://www.linkedin.com/in/guilherme-sebastiao/). Vamos construir algo incrível juntos!
