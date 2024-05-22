@@ -31,7 +31,7 @@ Olá! Meu nome é Guilherme Fernandes Sebastião, sou um entusiasta de desenvolv
 - FlappyBird Clone
 - Jogo da Forca
 - Snake Game
-- Termo
+- Termo Clone
 
 ## Cursos
 
