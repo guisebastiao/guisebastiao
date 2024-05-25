@@ -15,15 +15,15 @@ Olá! Meu nome é Guilherme Fernandes Sebastião, sou um entusiasta de desenvolv
 <div style="display: inline_block"><br>                                                                   
     <img align="center" alt="Gui-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-plain.svg">
     <img align="center" alt="Gui-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-plain.svg">
-    <img align="center" alt="Gui-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-plain.svg">
+    <img align="center" alt="Gui-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="Gui-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Gui-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-plain.svg">
     <img align="center" alt="Gui-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg">
     <img align="center" alt="Gui-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-plain.svg">
     <img align="center" alt="Gui-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-    <img align="center" alt="Gui-apirest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-plain.svg   ">
+    <img align="center" alt="Gui-apirest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-plain.svg">
     <img align="center" alt="Gui-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-plain.svg">
-    <img align="center" alt="Gui-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-plain.svg">
+    <img align="center" alt="Gui-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg">
     <img align="center" alt="Gui-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqldeveloper/sqldeveloper-plain.svg">
     <img align="center" alt="Gui-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
