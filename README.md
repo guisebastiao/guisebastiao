@@ -12,21 +12,29 @@ Olá! Meu nome é Guilherme Fernandes Sebastião, sou um entusiasta de desenvolv
 
 ## Tecnologias que Domino
 
-<div style="display: inline_block"><br>                                                                   
-    <img align="center" alt="Gui-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-plain.svg">
-    <img align="center" alt="Gui-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-plain.svg">
-    <img align="center" alt="Gui-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Gui-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Gui-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-plain.svg">
-    <img align="center" alt="Gui-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg">
-    <img align="center" alt="Gui-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-plain.svg">
-    <img align="center" alt="Gui-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-    <img align="center" alt="Gui-apirest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-plain.svg">
-    <img align="center" alt="Gui-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-plain.svg">
-    <img align="center" alt="Gui-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg">
-    <img align="center" alt="Gui-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqldeveloper/sqldeveloper-plain.svg">
-    <img align="center" alt="Gui-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+<br>
+<div align="center">   
+    <img align="center" alt="Gui-html" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-plain.svg">
+    <img align="center" alt="Gui-css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-plain.svg">
+    <img align="center" alt="Gui-bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Gui-javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Gui-nodejs" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-plain.svg">
+    <img align="center" alt="Gui-react" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg">
+    <img align="center" alt="Gui-git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-plain.svg">
+    <img align="center" alt="Gui-github" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+    <img align="center" alt="Gui-apirest" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-plain.svg">
+    <img align="center" alt="Gui-java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-plain.svg">
+    <img align="center" alt="Gui-figma" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg">
+    <img align="center" alt="Gui-sql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqldeveloper/sqldeveloper-plain.svg">
+    <img align="center" alt="Gui-mysql" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
+<br>
+<br>
+<div align="center">
+  <a href="https://github.com/guisebastiao">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisebastiao&layout=compact&langs_count=7&theme=radical"/>
+</div>
+<br>
 
 ## Projetos Destacados
 
@@ -45,4 +53,19 @@ Olá! Meu nome é Guilherme Fernandes Sebastião, sou um entusiasta de desenvolv
 
 ## Entre em Contato
 
-Estou sempre aberto para networking e colaboração em projetos interessantes. Sinta-se à vontade para entrar em contato comigo por meio do meu [LinkedIn](https://www.linkedin.com/in/guilherme-sebastiao/). Vamos construir algo incrível juntos!
+Estou em aberto para colaboração de projetos interessantes. Vamos construir algo incrível juntos!
+
+<div>
+    <a href="https://www.linkedin.com/in/guilherme-sebastiao/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href="https://wa.me/+5551994155941" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.instagram.com/guisebastiao_/" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+    <a href="mailto:guilhermesebastiaou.u@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+</div>
