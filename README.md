@@ -43,7 +43,7 @@ Olá! Meu nome é Guilherme Fernandes Sebastião, sou um entusiasta de desenvolv
 - shoppingCart
 - Jogo da Velha
 - FlappyBird Clone
-- Jogo da Forca
+- Jogo da Memória
 - Snake Game
 - Termo Clone
 
