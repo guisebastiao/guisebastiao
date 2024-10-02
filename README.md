@@ -39,6 +39,8 @@ Olá! Meu nome é Guilherme Fernandes Sebastião, sou um entusiasta de desenvolv
 
 ## Projetos Destacados
 
+- To-Do
+- shoppingCart
 - Jogo da Velha
 - FlappyBird Clone
 - Jogo da Forca
