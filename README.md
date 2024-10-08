@@ -14,19 +14,19 @@ Olá! Meu nome é Guilherme Fernandes Sebastião, sou um entusiasta de desenvolv
 
 <br>
 <div align="center">
-    <img align="center" alt="Gui-react" height="50" width="50" src="https://raw.githubusercontent.com/guisebastiao/-technologyIcons/2cb06c6c69c9901ae31e69326c89b955b0b1b27f/Icons/react.svg">
-    <img align="center" alt="Gui-nodejs" height="50" width="50" src="https://raw.githubusercontent.com/guisebastiao/-technologyIcons/2cb06c6c69c9901ae31e69326c89b955b0b1b27f/Icons/nodejs.svg">
-    <img align="center" alt="Gui-express" height="50" width="50" src="https://raw.githubusercontent.com/guisebastiao/-technologyIcons/2cb06c6c69c9901ae31e69326c89b955b0b1b27f/Icons/expressjs.svg">
-    <img align="center" alt="Gui-javascript" height="50" width="50" src="https://raw.githubusercontent.com/guisebastiao/-technologyIcons/2cb06c6c69c9901ae31e69326c89b955b0b1b27f/Icons/javascript.svg">
-    <img align="center" alt="Gui-mysql" height="50" width="50" src="https://raw.githubusercontent.com/guisebastiao/-technologyIcons/2cb06c6c69c9901ae31e69326c89b955b0b1b27f/Icons/mysql.svg">
-    <img align="center" alt="Gui-java" height="50" width="50" src="https://raw.githubusercontent.com/guisebastiao/-technologyIcons/2cb06c6c69c9901ae31e69326c89b955b0b1b27f/Icons/java.svg">
-    <img align="center" alt="Gui-python" height="50" width="50" src="https://raw.githubusercontent.com/guisebastiao/-technologyIcons/2cb06c6c69c9901ae31e69326c89b955b0b1b27f/Icons/python.svg">
-    <img align="center" alt="Gui-html" height="50" width="50" src="https://raw.githubusercontent.com/guisebastiao/-technologyIcons/2cb06c6c69c9901ae31e69326c89b955b0b1b27f/Icons/html5.svg">
-    <img align="center" alt="Gui-css" height="50" width="50" src="https://raw.githubusercontent.com/guisebastiao/-technologyIcons/2cb06c6c69c9901ae31e69326c89b955b0b1b27f/Icons/css3.svg">
-    <img align="center" alt="Gui-bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/guisebastiao/-technologyIcons/2cb06c6c69c9901ae31e69326c89b955b0b1b27f/Icons/tailwindcss.svg">
-    <img align="center" alt="Gui-bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/guisebastiao/-technologyIcons/2cb06c6c69c9901ae31e69326c89b955b0b1b27f/Icons/bootstrap.svg">
-    <img align="center" alt="Gui-git" height="50" width="50" src="https://raw.githubusercontent.com/guisebastiao/-technologyIcons/2cb06c6c69c9901ae31e69326c89b955b0b1b27f/Icons/git.svg">
-    <img align="center" alt="Gui-figma" height="50" width="50" src="https://raw.githubusercontent.com/guisebastiao/-technologyIcons/2cb06c6c69c9901ae31e69326c89b955b0b1b27f/Icons/figma.svg">
+    <img align="center" alt="Gui-react" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+    <img align="center" alt="Gui-nodejs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line.svg">
+    <img align="center" alt="Gui-express" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+    <img align="center" alt="Gui-javascript" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Gui-mysql" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Gui-java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+    <img align="center" alt="Gui-python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img align="center" alt="Gui-html" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Gui-css" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Gui-tailwind" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+    <img align="center" alt="Gui-bootstrap" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Gui-git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img align="center" alt="Gui-figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
     
 </div>
 <br>
