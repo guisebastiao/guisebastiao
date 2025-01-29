@@ -39,6 +39,7 @@ Olá! Meu nome é Guilherme Fernandes Sebastião, sou um entusiasta de desenvolv
 
 ## Projetos Destacados
 
+- LifeShots
 - To-Do
 - shoppingCart
 - Jogo da Velha
