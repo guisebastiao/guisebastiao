@@ -7,7 +7,6 @@ Olá! Meu nome é Guilherme Fernandes Sebastião, sou um entusiasta de desenvolv
 - 🎓 Estudante de Ciência da Computação na Universidade Unisul
 - 🌱 Atualmente, estou me aprofundando em Desenvolvimento Web
 - 💼 Buscando oportunidades para colaborar em projetos interessantes
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/guilherme-sebastiao/)
 - 😄 Pronomes: Ele/Dele
 
 ## Tecnologias que Domino
