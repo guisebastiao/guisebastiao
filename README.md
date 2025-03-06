@@ -53,7 +53,6 @@ Olá! Meu nome é Guilherme Fernandes Sebastião, sou um entusiasta de desenvolv
 - [Curso de JavaScript e TypeScript do Básico ao Avançado](https://www.udemy.com)
 - [Desenvolvimento Web Completo - 20 cursos + 20 projetos](https://www.udemy.com)
 - [React do Zero a Maestria (com hooks, router, API, Projetos)](https://www.udemy.com)
-- [PRO FIGMA | UI DESIGN com Figma do Zero ao Especialista 2024](https://www.udemy.com)
 
 ## Entre em Contato
 
@@ -62,12 +61,6 @@ Estou em aberto para colaboração de projetos interessantes. Vamos construir al
 <div>
     <a href="https://www.linkedin.com/in/guilherme-sebastiao/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-    <a href="https://wa.me/+5551994155941" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.instagram.com/guisebastiao_/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
     <a href="mailto:guilhermesebastiaou.u@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
