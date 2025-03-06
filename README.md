@@ -14,20 +14,21 @@ Olá! Meu nome é Guilherme Fernandes Sebastião, sou um entusiasta de desenvolv
 
 <br>
 <div align="center">
-    <img align="center" alt="Gui-react" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-    <img align="center" alt="Gui-nodejs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line.svg">
-    <img align="center" alt="Gui-express" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
-    <img align="center" alt="Gui-javascript" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Gui-mysql" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Gui-java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-    <img align="center" alt="Gui-python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-    <img align="center" alt="Gui-html" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Gui-css" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Gui-tailwind" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-    <img align="center" alt="Gui-bootstrap" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Gui-git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    <img align="center" alt="Gui-figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-    
+    <img align="center" alt="react" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+    <img align="center" alt="nodejs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line.svg">
+    <img align="center" alt="express" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+    <img align="center" alt="fastify" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-plain.svg">
+    <img align="center" alt="prisma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg">
+    <img align="center" alt="javascript" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="typescript" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+    <img align="center" alt="mysql" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+    <img align="center" alt="python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img align="center" alt="html" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+    <img align="center" alt="css" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+    <img align="center" alt="tailwind" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+    <img align="center" alt="figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+    <img align="center" alt="git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
 <br>
 <br>
@@ -60,9 +61,12 @@ Estou em aberto para colaboração de projetos interessantes. Vamos construir al
 
 <div>
     <a href="https://www.linkedin.com/in/guilherme-sebastiao/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white">
     </a>
-    <a href="mailto:guilhermesebastiaou.u@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <a href="mailto:guilhermesebastiaou.u@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logoColor=white">
+    </a>
+    <a href="https://guilhermesebastiaoportfolio.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portifólio-green?style=for-the-badge&logoColor=white" />
     </a>
 </div>
