@@ -1,71 +1,47 @@
-# Bem-Vindo ao meu GitHub!
+<h1 style="border-bottom: none; font-weight: bold; font-size: 32px; color: #ffffff;">Olá👋</h1>
 
-Olá! Meu nome é Guilherme Fernandes Sebastião, sou um entusiasta de desenvolvimento web e estudante de Ciência da Computação na Universidade Unisul, em Tubarão, SC. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+<p style="font-size: 15px; color: #d4d4d4;">Meu nome é Guilherme, tenho 20 anos e sou residente em Tubarão-SC e estudante de Ciência da Computação na Unisul.</p>
 
-## Sobre Mim
+<h2 style="border-bottom: none; color: #e5e5e5; font-size: 25px; font-weight: 700;">Sobre Mim</h2>
 
-- 🎓 Estudante de Ciência da Computação na Universidade Unisul
-- 🌱 Atualmente, estou me aprofundando em Desenvolvimento Web
-- 💼 Buscando oportunidades para colaborar em projetos interessantes
-- 😄 Pronomes: Ele/Dele
-
-## Tecnologias que Domino
+- 🎓 Estudante de Ciência da Computação na Unisul.
+- 💼 Estou aberto a oportunidades remotas ou presenciais em Tubarão e região.
+- 🚀 Focado em boas práticas de desenvolvimento e código limpo.
+- 📖 Sempre aprendendo e explorando novas tecnologias em desenvolvimento.
+- 💻 Foco em Desenvolvimento Web com TypeScript, Java e frameworks modernos.
 
 <br>
-<div align="center">
-    <img align="center" alt="react" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-    <img align="center" alt="nodejs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line.svg">
-    <img align="center" alt="express" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
-    <img align="center" alt="fastify" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-plain.svg">
-    <img align="center" alt="prisma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg">
-    <img align="center" alt="javascript" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="typescript" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="mysql" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-    <img align="center" alt="python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-    <img align="center" alt="html" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-    <img align="center" alt="css" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-    <img align="center" alt="tailwind" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-    <img align="center" alt="figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-    <img align="center" alt="git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-</div>
-<br>
-<br>
-<div align="center">
-  <a href="https://github.com/guisebastiao">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisebastiao&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<br>
 
-## Projetos Destacados
-
-- LifeShots
-- To-Do
-- shoppingCart
-- Jogo da Velha
-- FlappyBird Clone
-- Jogo da Memória
-- Snake Game
-- Termo Clone
-
-## Cursos
-
-- [Curso de JavaScript e TypeScript do Básico ao Avançado](https://www.udemy.com)
-- [Desenvolvimento Web Completo - 20 cursos + 20 projetos](https://www.udemy.com)
-- [React do Zero a Maestria (com hooks, router, API, Projetos)](https://www.udemy.com)
-
-## Entre em Contato
-
-Estou em aberto para colaboração de projetos interessantes. Vamos construir algo incrível juntos!
+<img src="https://api.visitorbadge.io/api/VisitorHit?user=guisebastiao&repo=github-visitors-badge&countColor=%23155dfc&label=VISITANTES%20%F0%9F%94%A5" width="195px" />
 
 <div>
-    <a href="https://www.linkedin.com/in/guilherme-sebastiao/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white">
+    <a href="https://www.linkedin.com/in/guilherme-sebastiao" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logoColor=white">
     </a>
-    <a href="mailto:guilhermesebastiaou.u@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logoColor=white">
-    </a>
-    <a href="https://guilhermesebastiaoportfolio.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Portifólio-green?style=for-the-badge&logoColor=white" />
+    <a href="https://guisebastiao.com.br" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/PORTFOLIO-52C6FF?style=for-the-badge&logoColor=white" />
     </a>
 </div>
+
+<h2 style="border-bottom: none; color: #e5e5e5; font-size: 25px; font-weight: 700;">Stack Tecnológico</h2>
+
+<h3 style="color: #d4d4d4; font-weight: 500; font-size: 17px;">Linguagens</h3>
+
+<!-- ADD ICONS -->
+
+<h3 style="color: #d4d4d4; font-weight: 500; font-size: 17px;">Frontend</h3>
+
+<!-- ADD ICONS -->
+
+<h3 style="color: #d4d4d4; font-weight: 500; font-size: 17px;">Backend</h3>
+
+<!-- ADD ICONS -->
+
+<h3 style="color: #d4d4d4; font-weight: 500; font-size: 17px;">Ferramentas</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=guisebastiao&theme=dracula&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" height="125" style="display: block; margin-bottom: 10px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guisebastiao&radius=8&theme=dracula&area=true&order=5&hide_border=true&hide_title=true" height="250" style="display: block;" />
+</div>
+
+<!-- PACMAN -->
