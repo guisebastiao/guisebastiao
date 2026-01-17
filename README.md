@@ -70,7 +70,7 @@
 
 <div>
     <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/vscode.svg" />
-    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/intelij.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/intellij.svg" />
     <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/postman.svg" />
     <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/docker.svg" />
     <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/vite.svg" />
