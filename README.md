@@ -1,14 +1,14 @@
 <h3>Olá👋</h3>
 
-<p>Meu nome é Guilherme, tenho 20 anos, sou residente em Tubarão-SC e estudante de Ciência da Computação na Unisul.</p>
+<sub>Meu nome é Guilherme, tenho 20 anos, sou residente em Tubarão-SC e estudante de Ciência da Computação na Unisul.</sub>
 
 <h3>Sobre Mim</h3>
 
-- 🎓 Estudante de Ciência da Computação na Unisul.
-- 💼 Estou aberto a oportunidades remotas ou presenciais em Tubarão e região.
-- 🚀 Focado em boas práticas de desenvolvimento e código limpo.
-- 📖 Sempre aprendendo e explorando novas tecnologias em desenvolvimento.
-- 💻 Foco em Desenvolvimento Web com TypeScript, Java e frameworks modernos.
+- 🎓 <sub>Estudante de Ciência da Computação na Unisul.</sub>
+- 💼 <sub>Estou aberto a oportunidades remotas ou presenciais em Tubarão e região.</sub>
+- 🚀 <sub>Focado em boas práticas de desenvolvimento e código limpo.</sub>
+- 📖 <sub>Sempre aprendendo e explorando novas tecnologias em desenvolvimento.</sub>
+- 💻 <sub>Foco em Desenvolvimento Web com TypeScript, Java e frameworks modernos.</sub>
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 <h3>Stack Tecnológico</h3>
 
-<h4>Linguagens</h4>
+<h5>Linguagens</h5>
 
 <div>
     <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/javascript.svg" />
@@ -34,7 +34,7 @@
     <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/python.svg" />
 </div>
 
-<h4>Frontend</h4>
+<h5>Frontend</h5>
 
 <div>
     <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/react.svg" />
@@ -50,7 +50,7 @@
     <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/shadcn.svg" />
 </div>
 
-<h4>Backend</h4>
+<h5>Backend</h5>
 
 <div>
     <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/spring-boot.svg" />
@@ -66,7 +66,7 @@
     <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/jwt.svg" />
 </div>
 
-<h4>Ferramentas</h4>
+<h5>Ferramentas</h5>
 
 <div>
     <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/vscode.svg" />
