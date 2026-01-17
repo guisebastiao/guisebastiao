@@ -1,6 +1,6 @@
 <h3>Olá👋</h3>
 
-<p>Meu nome é Guilherme, tenho 20 anos e sou residente em Tubarão-SC e estudante de Ciência da Computação na Unisul.</p>
+<p>Meu nome é Guilherme, tenho 20 anos, sou residente em Tubarão-SC e estudante de Ciência da Computação na Unisul.</p>
 
 <h3>Sobre Mim</h3>
 
@@ -27,17 +27,61 @@
 
 <h4>Linguagens</h4>
 
-<!-- ADD ICONS -->
+<div>
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/javascript.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/typescript.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/java.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/python.svg" />
+</div>
 
 <h4>Frontend</h4>
 
-<!-- ADD ICONS -->
+<div>
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/react.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/next.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/html.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/css.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/tailwind.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/tanstack.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/redux.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/zod.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/hook-form.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/react-router.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/shadcn.svg" />
+</div>
 
 <h4>Backend</h4>
 
-<!-- ADD ICONS -->
+<div>
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/spring-boot.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/spring-security.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/node.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/nest.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/express.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/fastify.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/sequelize.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/prisma.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/auth.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/oauth.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/jwt.svg" />
+</div>
 
 <h4>Ferramentas</h4>
+
+<div>
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/vscode.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/intelij.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/postman.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/docker.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/vite.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/npm.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/pnpm.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/figma.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/git.svg" />
+    <img src="https://github.com/guisebastiao/guisebastiao/blob/main/icons/github.svg" />
+</div>
+
+<br/>
 
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=guisebastiao&theme=dracula&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" height="125" />
