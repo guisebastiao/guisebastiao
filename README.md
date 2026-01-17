@@ -84,9 +84,13 @@
 <br/>
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=guisebastiao&theme=dracula&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" height="125" />
+    <img src="https://streak-stats.demolab.com?user=guisebastiao&theme=react&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" height="125" />
     <br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=guisebastiao&radius=8&theme=dracula&area=true&order=5&hide_border=true&hide_title=true" height="250" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=guisebastiao&radius=8&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="250" />
 </div>
 
-<!-- PACMAN -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guisebastiao/guisebastiao/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guisebastiao/guisebastiao/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/guisebastiao/guisebastiao/output/pacman-contribution-graph.svg">
+</picture>
